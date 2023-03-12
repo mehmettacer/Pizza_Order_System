@@ -1,4 +1,4 @@
-"# Pizza_Order_System" 
+
 Pizza Order System for Global AI Hub Akbank Python Bootcamp 
 
 
